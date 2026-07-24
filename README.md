@@ -1,5 +1,66 @@
 # A-B-testing-Python-
 
+# Deutsch
+
+**A/B-Tests für Marketingkampagnen mit Python**
+
+**Projektübersicht**
+
+Dieses Projekt konzentriert sich auf die Anwendung von A/B-Testtechniken, um die Wirksamkeit von Marketingstrategien mit Python zu bewerten.
+Ziel ist es, herauszufinden, welche Marketingvariante im Hinblick auf Kundenengagement und -konvertierung besser abschneidet, um so eine datengesteuerte Entscheidungsfindung und eine verbesserte Kampagnenleistung zu ermöglichen.
+
+**Geschäftsproblem**
+
+Marketingteams starten Kampagnen oft ohne klare Beweise dafür, welche Strategie bessere Ergebnisse liefert.
+Dieses Projekt geht diese Herausforderung an, indem es zwei Kampagnenvarianten (A und B) statistisch vergleicht, um festzustellen, ob Änderungen in der Botschaft, im Design oder in den Angeboten zu höheren Conversions führen.
+
+**Ziele** 
+- Vergleichen Sie die Leistung zweier Marketingvarianten 
+- Messen Sie wichtige Kennzahlen wie Conversion-Rate und Engagement 
+- Verwenden Sie statistische Tests, um die Ergebnisse zu validieren 
+- Geben Sie umsetzbare Empfehlungen für zukünftige Kampagnen
+
+**Methodik**
+1. Datenbereinigung und -vorbereitung 
+- Fehlende und inkonsistente Werte entfernt 
+- Aufbereitete Daten für statistische Analysen
+
+2. Explorative Datenanalyse (EDA) 
+- Verglichene Conversion- und Engagement-Kennzahlen 
+- Visualisierte Leistungsunterschiede zwischen Varianten
+
+3. A/B-Tests 
+- Definierte Null- und Alternativhypothesen 
+- Durchgeführte statistische Tests (z. B. t-Test / z-Test) 
+- Bewertete statistische Signifikanz
+
+4. Ergebnisinterpretation 
+- Interpretierte Testergebnisse zur Unterstützung von Marketingentscheidungen
+
+**Wichtige Erkenntnisse** 
+- Identifiziert, welche Variante besser abschneidet 
+- Es wurde festgestellt, ob die beobachteten Unterschiede statistisch signifikant waren 
+- Hervorgehobene Kundenverhaltensmuster, die die Kampagnenleistung beeinflussen
+
+**Geschäftsempfehlungen** 
+- Führen Sie die leistungsstärkere Variante in zukünftigen Kampagnen ein 
+- Nutzen Sie A/B-Tests als Standardansatz zur Marketingoptimierung 
+- Testen Sie kontinuierlich Nachrichten, Bilder und Angebote, um die Conversions zu verbessern
+
+**Tools und Technologien** 
+- Python 
+- Pandas, NumPy 
+- SciPy / Statistikmodelle 
+- Matplotlib, Seaborn 
+- Jupyter-Notizbuch
+
+**Schlussfolgerung**
+
+Dieses Projekt zeigt, wie A/B-Tests datengesteuerte Marketingentscheidungen ermöglichen, Rätselraten reduzieren und die Kampagneneffektivität verbessern.
+Durch die Nutzung statistischer Analysen können Marketingteams Strategien zuverlässig optimieren und den ROI maximieren.
+
+# English
+
 **A/B Testing for Marketing Campaigns using Python**
 
 **Project Overview**
