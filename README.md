@@ -1,4 +1,4 @@
-# A/B Testing for Marketing Campaigns | Experimentation & Conversion Optimisation
+# Which Marketing Strategy Delivers Better Results? | A/B Testing
 
 # Deutsch
 
